@@ -14,7 +14,7 @@ Alistair Cockburn (příjmení se čte přibližně „koubern“) je americký 
 
 ## Hexagonální architektura
 
-![Schéma hexagonální architektury: doménová logika uprostřed, kolem ní porty a adaptéry pro uživatelské rozhraní, testy, databázi a externí služby](hexagonalni-architektura.svg)
+![Schéma hexagonální architektury: doménová logika uprostřed, kolem ní porty a adaptéry pro uživatelské rozhraní, testy, databázi a externí služby](https://imgs.search.brave.com/hnDyHDP9-p8MDZgNCX55JpWoEWxVPiwPUkut4Q1MdGI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/YXJob2h1dHR1bmVu/LmNvbS9oZXhhZ29u/YWwtYXJjaGl0ZWN0/dXJlL2V4dGVybmFs/LWRlcGVuZGVuY2ll/cy5leGNhbGlkcmF3/LmxpZ2h0LnN2Zw)
 
 Hlavní myšlenka je, že aplikaci lze stejně dobře ovládat uživatelem, jiným programem nebo automatickým testem a vyvíjet ji nezávisle na tom, jakou databázi či zařízení nakonec použije.
 
